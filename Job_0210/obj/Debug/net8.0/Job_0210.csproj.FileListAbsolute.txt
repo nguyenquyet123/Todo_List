@@ -517,6 +517,7 @@ D:\.NET\Job_0210\Job_0210\obj\Debug\net8.0\Job_0210.MvcApplicationPartsAssemblyI
 D:\.NET\Job_0210\Job_0210\obj\Debug\net8.0\Job_0210.MvcApplicationPartsAssemblyInfo.cache
 D:\.NET\Job_0210\Job_0210\obj\Debug\net8.0\Job_0210.RazorAssemblyInfo.cache
 D:\.NET\Job_0210\Job_0210\obj\Debug\net8.0\Job_0210.RazorAssemblyInfo.cs
+D:\.NET\Job_0210\Job_0210\obj\Debug\net8.0\Job_0210.sourcelink.json
 D:\.NET\Job_0210\Job_0210\obj\Debug\net8.0\staticwebassets.build.json
 D:\.NET\Job_0210\Job_0210\obj\Debug\net8.0\staticwebassets.development.json
 D:\.NET\Job_0210\Job_0210\obj\Debug\net8.0\staticwebassets\msbuild.Job_0210.Microsoft.AspNetCore.StaticWebAssets.props

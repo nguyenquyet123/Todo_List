@@ -29,15 +29,11 @@ public partial class DemoContext : DbContext
 
             entity.ToTable("todo");
 
-            entity.Property(e => e.Id)
-                .ValueGeneratedNever()
-                .HasColumnName("id");
+            entity.Property(e => e.Id).HasColumnName("id");
             entity.Property(e => e.Description)
                 .HasMaxLength(100)
                 .HasColumnName("description");
-            entity.Property(e => e.Status)
-                .HasMaxLength(10)
-                .HasColumnName("status");
+            entity.Property(e => e.Status).HasColumnName("status");
             entity.Property(e => e.Title)
                 .HasMaxLength(50)
                 .HasColumnName("title");
